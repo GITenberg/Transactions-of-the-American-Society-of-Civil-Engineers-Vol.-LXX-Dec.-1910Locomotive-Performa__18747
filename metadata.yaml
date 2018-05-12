@@ -1,0 +1,31 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXX-Dec.-1910Locomotive-Performa__18747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Randolph, B. S. (Beverly S.)
+    alias: Randolph, Beverly S.
+    gutenberg_agent_id: '8221'
+    url: http://www.gutenberg.org/2009/agents/8221
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TF'
+- !lcsh 'Railroads -- Grades'
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcsh 'Locomotives'
+- !lcc 'TA'
+title: 'Transactions of the American Society of Civil Engineers, Vol. LXX, Dec. 1910
+
+  Locomotive Performance On Grades Of Various Lengths, Paper No. 1172'
+url: http://www.gutenberg.org/ebooks/18747
